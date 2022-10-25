@@ -1,0 +1,3 @@
+Files: ES Ambience/Music
+Copyright: 2022, Oliver Horrowith
+License: CC-BY-4.0
