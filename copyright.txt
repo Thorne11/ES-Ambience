@@ -1,3 +1,5 @@
 Files: ES Ambience/Music
 Copyright: 2022, Oliver Horrowith
 License: CC-BY-4.0
+
+ES Ambience © 2022 by Oliver Horrowith is licensed under Attribution 4.0 International. To view a copy of this license, visit http://creativecommons.org/licenses/by/4.0/
